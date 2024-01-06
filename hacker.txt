@@ -1,0 +1,6 @@
+Goto hacker
+while (i=0)
+{
+  i++;
+  hackerKill;
+}
